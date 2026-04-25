@@ -1,5 +1,5 @@
 # CS 370 — Treasure Hunt
-
+ 
 **Category:** Algorithms and Data Structures
 **Original course:** CS 370 — Current and Emerging Trends in Computer Science
 
